@@ -1,7 +1,7 @@
 const imgINput = document.getElementById('imgINput');
 const imgElm = document.getElementById('imageDisplay');
 const downloadBtn = document.getElementById('download');
-
+// Index html
 imgElm.style.height = '500px';
 imgElm.style.width = 'auto';
 
