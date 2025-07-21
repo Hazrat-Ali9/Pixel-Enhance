@@ -1,0 +1,40 @@
+/* Filters for the image */
+.filter_blur {
+    filter: blur(5px);
+}
+
+.filter_bright {
+    filter: brightness(1.5);
+}
+
+.filter_contrast {
+    filter: contrast(120%);
+}
+
+.filter_dropSh {
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.5));
+}
+
+.filter_grayscale {
+    filter: grayscale(100%);
+}
+
+.filter_hueRo {
+    filter: hue-rotate(90deg);
+}
+
+.filter_invert {
+    filter: invert(100%);
+}
+
+.filter_opacity {
+    filter: opacity(50%);
+}
+
+.filter_saturate {
+    filter: saturate(200%);
+}
+
+.filter_sapia {
+    filter: sepia(80%);
+}

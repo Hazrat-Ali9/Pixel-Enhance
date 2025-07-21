@@ -1,0 +1,22 @@
+.box {
+    background-color: antiquewhite;
+    width: 955px;
+    height: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+.box img{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.btns {
+    text-align: center;
+}
+
+.btns button {
+    margin: 5px 5px;
+    padding: 5px 5px;
+}
