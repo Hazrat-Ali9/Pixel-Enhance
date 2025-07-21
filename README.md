@@ -9,4 +9,4 @@ online image editing app
 - and click download for save your image
 
 ## author 
-[]()
+[Hazrat Ali]()
